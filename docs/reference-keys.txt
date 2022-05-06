@@ -1,4 +1,3 @@
-the-peterson-lab
 labmate-expectations
 permits-for-our-research
 purchasing-procurement

@@ -5,5 +5,11 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# The Peterson Lab
+# Preface {-}
+\renewcommand{\chaptermark}[1]{\markboth{\uppercase{#1}}{\uppercase{#1}}}
+\chaptermark{Preface}
+
+Blah blah blah
+
+\renewcommand{\chaptermark}[1]{\markboth{\uppercase{\thechapter. \ #1}}{}}
 
