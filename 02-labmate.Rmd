@@ -1,3 +1,14 @@
 # Labmate expectations
 
-Teamwork makes the dream work
+## Roles and Expectations
+who's who and what they do all day, including the PI; expectations of everybody from everyone else's perspective; work-life balance
+
+## Communication
+how people in the lab talk to each other; things like "always use Slack", "phone calls are only for emergencies"; how long to wait before nudging Brad on something you need; how meetings with PI work and what to prepare for them; check-ins/stand-ups/huddles
+
+## Logistics
+When and how long people work; remote work; vaction; where we are located; how to get there; offices; what to do if you get locked out
+
+
+## Behavior
+official code of conduct; policies on scientific integrity, sexual harassment, discrimination; lab culture stuff "the kind of lab we are trying to be" and "things about our lab students like/dislike"; what to do if you have a problem; university-level information

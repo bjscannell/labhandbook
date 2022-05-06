@@ -1,0 +1,8 @@
+# Authorship, Data, and Long Lost Samples
+
+## Open Science
+Why and how the lab deals with sharing data, code, materials, version control and collaborators
+
+## Samples
+* lol at the pink samples in the fridge for 7+ years
+

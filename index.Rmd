@@ -11,6 +11,8 @@ site: bookdown::bookdown_site
 \renewcommand{\chaptermark}[1]{\markboth{\uppercase{#1}}{\uppercase{#1}}}
 \markboth{\uppercase{Preface}}{\uppercase{Preface}}
 ```
-Who we are
+
+## Mission Statement
+research goals; philosophy of how the lab works; chronological and academic history of the lab; ideas about future projects; why we do what we do
 
 \renewcommand{\chaptermark}[1]{\markboth{\uppercase{\thechapter. \ #1}}{}}

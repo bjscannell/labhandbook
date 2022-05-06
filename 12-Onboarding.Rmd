@@ -1,0 +1,18 @@
+# Onboarding
+master list of everything that new lab members need to deal with when starting out, including credentials, software, hardware, keys, university ID, etc
+
+## Recurring Events
+logistics and structure of lab meetings, departmental seminars, etc; daily and weekly task lists (differing by lab roles)
+
+## Behavior
+official code of conduct; policies on scientific integrity, sexual harassment, discrimination; lab culture stuff "the kind of lab we are trying to be" and "things about our lab students like/dislike"; what to do if you have a problem; university-level information
+
+## Ethics & Safety
+safety procedures; what to do when something goes wrong; what to do/who to call in an emergency
+
+## Internal Resources
+these are usually a long list of things people in the lab need access to: servers, software packages, commonly used web tools, shared credentials, room keys and other physical resources, etc
+
+## External Resources
+how to get a card; which building has the best photocopier; useful websites and tutorials, etc
+
