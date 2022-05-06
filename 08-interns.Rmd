@@ -1,1 +1,3 @@
 # Summer Interns
+
+## How we set up & run the summer interns/techs

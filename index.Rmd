@@ -1,15 +1,16 @@
---- 
-title: "Peterson Lab"
-author: "YOUR NAME HERE"
+---
+title: "Peterson Lab Handbook"
+author: "Stony Brook Univeristy"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Preface {-}
-\renewcommand{\chaptermark}[1]{\markboth{\uppercase{#1}}{\uppercase{#1}}}
-\chaptermark{Preface}
+# The Peterson lab {.unnumbered}
 
-Blah blah blah
+```{=tex}
+\renewcommand{\chaptermark}[1]{\markboth{\uppercase{#1}}{\uppercase{#1}}}
+\markboth{\uppercase{Preface}}{\uppercase{Preface}}
+```
+Who we are
 
 \renewcommand{\chaptermark}[1]{\markboth{\uppercase{\thechapter. \ #1}}{}}
-
