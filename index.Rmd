@@ -12,6 +12,10 @@ site: bookdown::bookdown_site
 \markboth{\uppercase{Preface}}{\uppercase{Preface}}
 ```
 
+```{r echo=FALSE, fig.align='center', out.width='25%'}
+knitr::include_graphics('images/petersonlablogo.png')
+```
+
 ## Mission Statement
 research goals; philosophy of how the lab works; chronological and academic history of the lab; ideas about future projects; why we do what we do
 
