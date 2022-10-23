@@ -5,5 +5,4 @@
 ## IACUC
 
 ## Orsted
-
-## Wind farm stuff
+To go on any Orsted vessel you need to go through training
