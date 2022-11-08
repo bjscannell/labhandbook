@@ -1,10 +1,24 @@
 # Labmate expectations
 
 ## Roles and Expectations
-who's who and what they do all day, including the PI; expectations of everybody from everyone else's perspective; work-life balance
+PI: Model the inclusive, supportive, and adventurous nature of the lab community. The PI should offer their guidance regarding students projects, and provide an open door for communication (to a reasonable extent). The PI should be forthright and open about grad student funding sources. The PI should be aware of each students project and their needs, and be willing to assist (with direct involvement if necessary). The PI should advocate for student needs within SoMAS and SBU. Facilitate connections within SoMAS and outside that will support student networking opportunities.
+
+Grad student: Directly communicate their needs and concerns to the PI to facilitate a positive relationship. Take ownership of their agency and grad school experience. Be curious and open to knowledge and experience. Graduate students will work hard, but recognize that their work is only one part of their beautiful and multifaceted life. Take care of yourself! Present their work at scientific meetings. If you have downtime, offer to jump in and assist other students on projects other than their own. If a grad student is feeling overwhelmed by the amount of work on their plate, it is ok to say no to Brad and share their workload. Publish our work! Make Brad famous! During your first year your primary goal should be successfully completing your coursework and TA duties. Support undergraduates by being a sounding board, writing recommendations, etc. Represent the lab in a positive and professional way.
+
+Post doc: Be chill
+
+Research tech: Be fresh & cool
+Undergrad: Summer volunteers should meet 2 day minimum. Paid technicians should treat our lab as their primary employment, any secondary employment should be communicated and scheduled clearly. Give a week in advance for time off for planning purposes. Curious, ask questions, use us as resources. Communicate questions to grad student and PI. Be respectful and kind to your fellow interns. Respect the marine station, staff, other labs, local community, and each other. 
+who’s who and what they do all day, including the PI; expectations of everybody from everyone else’s perspective; work-life balance
+ 
+Work-life balance 
+It would be the desire of the PI that the student takes at least one day off a week to focus on other activities. Student work should not be at the expense of their mental and physical health.
+
 
 ## Communication
-how people in the lab talk to each other; things like "always use Slack", "phone calls are only for emergencies"; how long to wait before nudging Brad on something you need; how meetings with PI work and what to prepare for them; check-ins/stand-ups/huddles
+Conflict resolution: It is our desire that within the lab we have an atmosphere of clear communication. If you feel you have been wronged, you should be able to address that with the person. If the conflict rises beyond that, you should feel comfortable to raise that issue with the PI, who will facilitate the resolution to the best of their ability as an unbiased mediator. If your issue is with Peterson and it is beyond the level that you can resolve it with him, you should feel free and safe asking for assistance from any faculty member you feel comfortable with. The Graduate Program Director or the Chairman of Marine Science Faculty are people that have particular experience in advisor/student issues. 
+how people in the lab talk to each other; things like “always use Slack”, “phone calls are only for emergencies”; how long to wait before nudging Brad on something you need; how meetings with PI work and what to prepare for them; check-ins/stand-ups/huddles
+
 
 ## Logistics
 When and how long people work; remote work; vaction; where we are located; how to get there; offices; what to do if you get locked out
